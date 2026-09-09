@@ -1,19 +1,29 @@
 <div align="center">
 
-# 👋 Hi there, I'm Ebrar Özdemir
+# Hi there 👋
+
+# I'm Ebrar Özdemir
 
 ### Computer Engineering Student | Full Stack Developer
 
-<p>
-  <a href="https://www.linkedin.com/in/ebraroozdemir">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/ebrarozdemir1">
-    <img src="https://img.shields.io/badge/GitHub-Profile-20233A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+I'm a fourth-year Computer Engineering student at Sakarya University of Applied Sciences.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=7B61FF&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Learning+%7C+Building+%7C+Improving;Turning+ideas+into+real+projects+%F0%9F%92%9C" alt="Typing Animation">
+I enjoy building web applications, solving real-world problems,
+and continuously learning new technologies.
+
+<br>
+
+<a href="https://github.com/ebrarozdemir1">
+  <img src="https://img.shields.io/badge/View%20My%20Projects-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ebraroozdemir">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-ffffff?style=for-the-badge&logo=gmail&logoColor=7B61FF" alt="Email">
+</a>
 
 </div>
 
@@ -37,78 +47,89 @@ My goal is to grow as a **Full Stack Developer** and build clean, useful, and us
 
 ## 🛠️ Tech Stack
 
+### The technologies I work with:
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,html,css,dotnet" alt="Tech Stack">
+<table>
+<tr>
+<td align="center">🔵<br><b>C</b></td>
+<td align="center">🔵<br><b>C++</b></td>
+<td align="center">🟣<br><b>C#</b></td>
+<td align="center">☕<br><b>Java</b></td>
+<td align="center">🐍<br><b>Python</b></td>
+</tr>
 
-<br><br>
-
-**Microsoft SQL Server** · **Entity Framework Core**
+<tr>
+<td align="center">🟨<br><b>JavaScript</b></td>
+<td align="center">🟧<br><b>HTML5</b></td>
+<td align="center">🔵<br><b>CSS3</b></td>
+<td align="center">🗄️<br><b>SQL Server</b></td>
+<td align="center">⚙️<br><b>EF Core</b></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎮 Developer Quest
+<table>
+<tr>
 
-<div align="center">
+<td width="50%" valign="top">
+
+## 🎮 Developer Quest
 
 ### LEVEL 04 — COMPUTER ENGINEERING
 
-<table>
-<tr>
-<td>
-
-🎮 **EBRAR'S DEVELOPER QUEST**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
 **Full Stack Journey**
-
-<br><br>
 
 ████████████████░░░░ **80%**
 
-<br><br>
+<br>
 
 ✅ Learn new technologies  
 ✅ Build academic projects  
 ✅ Explore backend development  
 🔄 Build real-world applications  
-🔄 Keep improving every day  
+🔄 Keep improving every day
 
 <br>
 
-**NEXT QUEST: CREATE • LEARN • IMPROVE 🚀**
+**NEXT QUEST**
+
+CREATE • LEARN • IMPROVE 🚀
 
 </td>
+
+<td width="50%" valign="top">
+
+## 🎯 What I'm Working On
+
+### Backend Development
+**C# · .NET**
+
+Build reliable applications
+
+### Database Development
+**SQL Server · EF Core**
+
+Design efficient data solutions
+
+### Web Development
+**HTML · CSS · JavaScript**
+
+Create modern user experiences
+
+### Software Development
+**C · C++ · Java · Python**
+
+Strengthen problem-solving skills
+
+</td>
+
 </tr>
 </table>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=700&color=7B61FF&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+Quest+accepted!;%F0%9F%92%BB+Writing+code...;%F0%9F%90%9B+Finding+bugs...;%E2%9C%A8+Building+something+better!" alt="Developer Quest Animation">
-
-</div>
-
----
-
-## 💡 What I'm Working On
-
-<div align="center">
-
-| 🎯 Focus | 💻 Technologies | 🚀 Goal |
-|---|---|---|
-| Backend Development | C# · .NET | Build reliable applications |
-| Database Development | SQL Server · EF Core | Design efficient data solutions |
-| Web Development | HTML · CSS · JavaScript | Create modern user experiences |
-| Software Development | C · C++ · Java · Python | Strengthen problem-solving skills |
-
-</div>
 
 ---
 
@@ -136,15 +157,17 @@ I'm always open to learning, collaborating, and discussing software development.
   <img src="https://img.shields.io/badge/LinkedIn-Ebrar%20Özdemir-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+&nbsp;
+
+<a href="https://github.com/ebrarozdemir1">
+  <img src="https://img.shields.io/badge/GitHub-Ebrar%20Özdemir-20233A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
 <br><br>
 
 ### ✨ “A better web, a brighter tomorrow.”
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=ebrarozdemir1&style=flat-square&color=7B61FF" alt="Profile Views">
-
-<br><br>
 
 **Thanks for visiting my profile! 💜**
 
