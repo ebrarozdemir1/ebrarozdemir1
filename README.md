@@ -1,73 +1,78 @@
 <div align="center">
 
-# Hi there 👋
+# 👋 Hi there!
 
-# I'm Ebrar Özdemir
+# 💜 I'm Ebrar Özdemir
 
-### Computer Engineering Student | Full Stack Developer
+### 🎓 Computer Engineering Student &nbsp;|&nbsp; 💻 Full Stack Developer
 
-I'm a fourth-year Computer Engineering student at Sakarya University of Applied Sciences.
-
-I enjoy building web applications, solving real-world problems,
-and continuously learning new technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Learning+%7C+Building+%7C+Improving;Turning+ideas+into+real+projects+%F0%9F%92%9C" alt="Typing Animation">
 
 <br>
 
 <a href="https://github.com/ebrarozdemir1">
-  <img src="https://img.shields.io/badge/View%20My%20Projects-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/ebraroozdemir">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+<img src="https://img.shields.io/badge/💼%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 &nbsp;
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-ffffff?style=for-the-badge&logo=gmail&logoColor=7B61FF" alt="Email">
+
+<a href="mailto:ebrarozdemir897@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20SEND%20AN%20EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## 💜 About Me
 
-I'm a **fourth-year Computer Engineering student at Sakarya University of Applied Sciences** with a strong interest in full stack web development.
+<table>
+<tr>
+<td>
 
-I enjoy working with both frontend and backend technologies, learning new tools, solving problems, and turning ideas into practical applications.
+🎓 **Computer Engineering Student**
 
-My goal is to grow as a **Full Stack Developer** and build clean, useful, and user-friendly software.
+I'm a fourth-year Computer Engineering student at **Sakarya University of Applied Sciences** with a strong interest in full stack web development.
 
-- 🎓 Computer Engineering Student
-- 💻 Full Stack Development
-- 🚀 Interested in real-world software projects
-- 🌱 Always learning and improving
-- 📍 Sakarya, Türkiye
+💻 I enjoy working with both **frontend and backend technologies**, learning new tools, solving problems, and turning ideas into practical applications.
+
+🚀 My goal is to grow as a **Full Stack Developer** and build clean, useful, and user-friendly software.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### The technologies I work with:
+### 💻 Programming Languages
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">🔵<br><b>C</b></td>
-<td align="center">🔵<br><b>C++</b></td>
-<td align="center">🟣<br><b>C#</b></td>
-<td align="center">☕<br><b>Java</b></td>
-<td align="center">🐍<br><b>Python</b></td>
-</tr>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript">
 
-<tr>
-<td align="center">🟨<br><b>JavaScript</b></td>
-<td align="center">🟧<br><b>HTML5</b></td>
-<td align="center">🔵<br><b>CSS3</b></td>
-<td align="center">🗄️<br><b>SQL Server</b></td>
-<td align="center">⚙️<br><b>EF Core</b></td>
-</tr>
-</table>
+<br><br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,dotnet">
+
+<br><br>
+
+### 🗄️ Database & ORM
+
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=.net&logoColor=white">
 
 </div>
 
@@ -80,25 +85,31 @@ My goal is to grow as a **Full Stack Developer** and build clean, useful, and us
 
 ## 🎮 Developer Quest
 
-### LEVEL 04 — COMPUTER ENGINEERING
+### 💜 LEVEL 04
 
-**Full Stack Journey**
-
-████████████████░░░░ **80%**
+**Computer Engineering**
 
 <br>
 
-✅ Learn new technologies  
-✅ Build academic projects  
-✅ Explore backend development  
-🔄 Build real-world applications  
-🔄 Keep improving every day
+🎯 **Full Stack Journey**
 
 <br>
 
-**NEXT QUEST**
+🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **80%**
 
-CREATE • LEARN • IMPROVE 🚀
+<br><br>
+
+🟢 Learn new technologies  
+🟢 Build academic projects  
+🟢 Explore backend development  
+🔵 Build real-world applications  
+🔵 Keep improving every day
+
+<br>
+
+✨ **NEXT QUEST**
+
+`CREATE` • `LEARN` • `IMPROVE` 🚀
 
 </td>
 
@@ -106,30 +117,69 @@ CREATE • LEARN • IMPROVE 🚀
 
 ## 🎯 What I'm Working On
 
-### Backend Development
+### 🟣 Backend Development
+
 **C# · .NET**
 
-Build reliable applications
+Building reliable applications
 
-### Database Development
+<br>
+
+### 🔵 Database Development
+
 **SQL Server · EF Core**
 
-Design efficient data solutions
+Designing efficient data solutions
 
-### Web Development
+<br>
+
+### 🟢 Web Development
+
 **HTML · CSS · JavaScript**
 
-Create modern user experiences
+Creating modern user experiences
 
-### Software Development
+<br>
+
+### 🟠 Software Development
+
 **C · C++ · Java · Python**
 
-Strengthen problem-solving skills
+Strengthening problem-solving skills
 
 </td>
 
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🚀 My Development Journey
+
+<img src="https://img.shields.io/badge/LEARN-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/BUILD-EC4899?style=for-the-badge">
+<img src="https://img.shields.io/badge/IMPROVE-06B6D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/CREATE-10B981?style=for-the-badge">
+
+<br><br>
+
+💜 **Learning new technologies**
+
+&nbsp;→&nbsp;
+
+💗 **Building projects**
+
+&nbsp;→&nbsp;
+
+💙 **Solving problems**
+
+&nbsp;→&nbsp;
+
+💚 **Growing as a developer**
+
+</div>
 
 ---
 
@@ -141,6 +191,10 @@ Strengthen problem-solving skills
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ebrarozdemir1/ebrarozdemir1/output/github-snake.svg">
 </picture>
 
+<br>
+
+🟣 **Keep coding. Keep learning. Keep growing.** 🐍
+
 </div>
 
 ---
@@ -149,26 +203,38 @@ Strengthen problem-solving skills
 
 <div align="center">
 
-I'm always open to learning, collaborating, and discussing software development.
+### 💜 I'm always open to learning, collaborating, and discussing software development.
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/ebraroozdemir">
-  <img src="https://img.shields.io/badge/LinkedIn-Ebrar%20Özdemir-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Ebrar%20Özdemir-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 &nbsp;
 
 <a href="https://github.com/ebrarozdemir1">
-  <img src="https://img.shields.io/badge/GitHub-Ebrar%20Özdemir-20233A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Ebrar%20Özdemir-1F2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="mailto:ebrarozdemir897@gmail.com">
+<img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
 
 ### ✨ “A better web, a brighter tomorrow.”
 
+**— Ebrar Özdemir 💜**
+
 <br>
 
-**Thanks for visiting my profile! 💜**
+<img src="https://komarev.com/ghpvc/?username=ebrarozdemir1&style=for-the-badge&color=8B5CF6" alt="Profile Views">
+
+<br><br>
+
+💜 **Thanks for visiting my profile!**
 
 </div>
