@@ -97,18 +97,6 @@ My goal is to grow as a **Full Stack Developer** and build clean, useful, and us
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ebrarozdemir1&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6D4AFF&icon_color=8B5CF6&text_color=333333&rank_icon=github" alt="GitHub Statistics">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarozdemir1&layout=compact&hide_border=true&bg_color=ffffff&title_color=6D4AFF&text_color=333333" alt="Most Used Languages">
-
-</div>
-
----
-
 ## 💡 What I'm Working On
 
 <div align="center">
@@ -124,8 +112,6 @@ My goal is to grow as a **Full Stack Developer** and build clean, useful, and us
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
@@ -135,16 +121,6 @@ My goal is to grow as a **Full Stack Developer** and build clean, useful, and us
 </picture>
 
 </div>
-
----
-
-## 🌱 Currently Growing
-
-- 📚 Deepening my knowledge of **C# and .NET**
-- 🗄️ Improving my **Entity Framework Core and SQL Server** skills
-- 🌐 Developing my **full stack web development** skills
-- 🧩 Building and documenting academic and personal projects
-- 🚀 Preparing for long-term internship and career opportunities
 
 ---
 
