@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there!
+### Hi there 👋
 
 # 💜 I'm Ebrar Özdemir
 
@@ -32,9 +32,7 @@
 
 ## 💜 About Me
 
-<table>
-<tr>
-<td>
+<div align="center">
 
 🎓 **Computer Engineering Student**
 
@@ -44,17 +42,15 @@ I'm a fourth-year Computer Engineering student at **Sakarya University of Applie
 
 🚀 My goal is to grow as a **Full Stack Developer** and build clean, useful, and user-friendly software.
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
 <div align="center">
+
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript">
 
@@ -80,7 +76,6 @@ I'm a fourth-year Computer Engineering student at **Sakarya University of Applie
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ## 🎮 Developer Quest
@@ -95,14 +90,18 @@ I'm a fourth-year Computer Engineering student at **Sakarya University of Applie
 
 <br>
 
-🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **80%**
+🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 ⬜ ⬜ **80%**
 
 <br><br>
 
-🟢 Learn new technologies  
-🟢 Build academic projects  
-🟢 Explore backend development  
-🔵 Build real-world applications  
+🟢 Learn new technologies
+
+🟢 Build academic projects
+
+🟢 Explore backend development
+
+🔵 Build real-world applications
+
 🔵 Keep improving every day
 
 <br>
@@ -148,7 +147,6 @@ Creating modern user experiences
 Strengthening problem-solving skills
 
 </td>
-
 </tr>
 </table>
 
@@ -156,12 +154,10 @@ Strengthening problem-solving skills
 
 <div align="center">
 
-## 🚀 My Development Journey
-
-<img src="https://img.shields.io/badge/LEARN-8B5CF6?style=for-the-badge">
-<img src="https://img.shields.io/badge/BUILD-EC4899?style=for-the-badge">
-<img src="https://img.shields.io/badge/IMPROVE-06B6D4?style=for-the-badge">
-<img src="https://img.shields.io/badge/CREATE-10B981?style=for-the-badge">
+<img src="https://img.shields.io/badge/💜%20LEARN-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/💗%20BUILD-EC4899?style=for-the-badge">
+<img src="https://img.shields.io/badge/💙%20IMPROVE-06B6D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/💚%20CREATE-10B981?style=for-the-badge">
 
 <br><br>
 
